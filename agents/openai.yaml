@@ -1,0 +1,4 @@
+interface:
+  display_name: "学术PPT制作"
+  short_description: "从大纲图、逐页细纲与效果图到原生可编辑PPT，组织学术叙事并核验真实证据"
+  default_prompt: "使用 $academic-ppt，根据我的学术材料制作大纲图、逐页效果图和可编辑PPT。"
